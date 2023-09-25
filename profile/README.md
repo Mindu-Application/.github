@@ -22,10 +22,7 @@ Este repositório contém o desenvolvimento de um Produto Mínimo Viável (MVP) 
 - [Next.js](https://nextjs.org/) – React framework for building performant apps with the best developer experience
 - [Auth.js](https://authjs.dev/) – Handle user authentication with ease with providers like Google, Twitter, GitHub, etc.
 - [Prisma](https://www.prisma.io/) – Typescript-first ORM for Node.js
-- [NextAuth.js](https://minduapp.tech) – Facilite a autenticação de usuário em seus aplicativos Next.js com suporte a várias estratégias de autenticação.
-- [PlanetScale](https://minduapp.tech) – Escale seu banco de dados com facilidade usando a poderosa plataforma de banco de dados distribuídos do PlanetScale.
-- [Zod](https://minduapp.tech) – Biblioteca TypeScript para validação de esquemas de dados de forma segura e concisa.
-- [Prisma](https://minduapp.tech) – ORM
+- [PlanetScale](https://planetscale.com/) – Escale seu banco de dados com facilidade usando a poderosa plataforma de banco de dados distribuídos do PlanetScale.
 
 
 ### Platforms
@@ -35,13 +32,11 @@ Este repositório contém o desenvolvimento de um Produto Mínimo Viável (MVP) 
 ### UI
 
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
-- [Lucide](https://lucide.dev/) – Beautifully simple, pixel-perfect icons
 - [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) – Optimize custom fonts and remove external network requests for improved performance
 
 ### Code Quality
 
 - [TypeScript](https://www.typescriptlang.org/) – Static type checker for end-to-end typesafety
-- [Zod](https://minduapp.tech) – Biblioteca TypeScript para validação de esquemas de dados de forma segura e concisa.
 - [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
 - [ESLint](https://eslint.org/) – Pluggable linter for Next.js and TypeScript
 
